@@ -1,8 +1,9 @@
 <h1>Test Task for Webtronics</h1>
 
-### Main technology Requirements
+### Stack
 - Python = 3.9
 - FastAPI = 0.89.1
+- SQLite
 
 ## Installation
     pip3 install -r requirements.txt
